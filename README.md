@@ -11,9 +11,12 @@ I like my coffee a bit messy, but it gets the job done.
 
 ![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAUSHIKRM-36&show_icons=true&theme=radical)
 
+[![An image of @kaushikrm36's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaushikrm36)](https://holopin.io/@kaushikrm36)
+
 ## Connect with Me
 
 - **Email:** [belikekaushik@gmail.com](mailto:belikekaushik@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kaushik-rajesh-mahajan-a277aa264/)
 - **Portfolio:** [Portfolio Website](https://www.yourportfolio.com)
 - **Instagram:** [@_.kaushik._06](https://www.instagram.com/_.kaushik._06)
+- **holopin:** [@kaushikrm36](https://holopin.io/@kaushikrm36)
